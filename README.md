@@ -1,0 +1,1 @@
+This repository demonstrates a subtle type inference problem in Scala when working with generic methods that take functions as parameters. The `MyClass` example shows how type inference might break down depending on the usage.
